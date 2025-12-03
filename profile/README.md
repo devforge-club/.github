@@ -11,7 +11,6 @@
 
 Somos un equipo de desarrolladores que combinan talento, trabajo en equipo y pasión por el código para entregar software de calidad.
 
----
 
 ## 🎯 Misión
 
@@ -21,7 +20,6 @@ Forjamos software de calidad uniendo el talento de mentes jóvenes que trabajan 
 
 Ser un referente de cómo un grupo de jóvenes desarrolladores puede entregar productos de nivel profesional, creciendo juntos y abriendo puertas para el futuro.
 
----
 
 ## 💎 Valores
 
@@ -33,7 +31,6 @@ Ser un referente de cómo un grupo de jóvenes desarrolladores puede entregar pr
 | 📚 | **Aprendizaje continuo** | Cada proyecto es una oportunidad para crecer. |
 | 💬 | **Amabilidad** | El buen trato es innegociable, entre nosotros y con los demás. |
 
----
 
 ## 🛠️ Stack Tecnológico
 
@@ -43,7 +40,6 @@ Ser un referente de cómo un grupo de jóvenes desarrolladores puede entregar pr
 
 *Nuestro stack evoluciona. Estamos abiertos a nuevas tecnologías según las necesidades de cada proyecto.*
 
----
 
 ## 📫 Contacto
 
