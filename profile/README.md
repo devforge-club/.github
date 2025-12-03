@@ -1,9 +1,12 @@
 <div align="center">
-  <img src="./assets/logo.png" alt="DevForge Logo" width="200">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/logo-light.png">
+    <img src="./assets/logo-light.png" alt="DevForge Logo" width="200">
+  </picture>
+
   
-  # 🔨 DevForge
-  
-  > **Código forjado a fuego**
+   ***Código forjado a fuego***
 </div>
 
 Somos un equipo de desarrolladores que combinan talento, trabajo en equipo y pasión por el código para entregar software de calidad.
